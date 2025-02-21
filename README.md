@@ -76,6 +76,10 @@ Verified the policy had been applied across the domain by running rsop.msc on a 
 ![Screenshot 2025-02-20 192422](https://github.com/user-attachments/assets/66bc48aa-3c9d-4107-894d-02a0d6c39f2e)
 *Ref 5: Windows Client Computer Configuration Reflecting the Updated Default Domain Policy*
 
+## Results
+- Enforced Automatic Updates on Windows Server 2019: Ensured all domain-joined machines receive timely security patches, reducing vulnerabilities.
+
+- Configured Audit Policies on Windows Server 2019: Improved security monitoring, compliance, and event logging across all systems.
 
 
 
